@@ -1,0 +1,68 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/laelaps3/fun-nft/contracts/Funcles.sol": {
+      "lastModificationDate": 1645429136855,
+      "contentHash": "2dd0ba4294df23e518bbb9fe3962fd14",
+      "sourceName": "contracts/Funcles.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.9",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "Funcles",
+        "IERC165",
+        "IERC2981",
+        "IERC721",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "MerkleProof",
+        "Ownable",
+        "ReentrancyGuard",
+        "Strings"
+      ]
+    }
+  }
+}
